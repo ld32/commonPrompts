@@ -1,0 +1,65 @@
+{"urls":
+ {"0":["urls01","chat.openai.com"],
+  "1":["myFirstName","myFirstName myLastName"],
+  "2":["submit",""]},
+
+"keywords":
+ {},
+
+"controls":
+ {"0":["p &NPOUNDSave to profile","Save selection to profile"]},
+
+"shortcuts":
+ {"0":["xppt &NPOUNDPrepare PPT or any comments you want","You are an expert presenter who knows how to communicate clearly and keep an audience's attention. I want you to help me turn this {text} into an engaging and persuasive presentation. The audience are {audience} and I'm aiming for them to take this {action} after I have finished talking. I have been given {time} to speak, so make sure you come up with something that can be delivered within that time. I want you to create a list of slides that the presentation should contain. For each slide I want you to list the headline, other media (image/video/gif) and the speaker's notes as a list of bullet points. Each slide should contain no more than 30 words so they don't distract from what I'm saying. Each slide should only talk about one thing. It's better to have more slides saying less then less slides saying more. Slides can also contain images, charts, diagrams and films, if they help communicate a point clearly.\n{audience}:\n{action}:\n{time}:\n{text}:"],
+  "1":["xproject &NPOUNDPlan a project or any comments","You are a highly experienced project manager who has a reputation for running successful projects. I want you to help me create a project plan for {project title}. Here are the {details}. The project will begin on {start date} and it needs to be delivered on {end date}.\nStart by listing project objectives that are specific and measurable, list the success metrics, list the milestones and deliverables. Now ask me if I'd like to see the timeline. Stop and wait for my response. Do not continue until I answer.\nIf I say yes, show a timeline as a table. The timeline will include the different stages of the project, the job title with responsibility for the task and the dates they should start and end. Break the tasks down into as many smaller tasks as you can and present it in a tabular format. Remember that some tasks can happen concurrently so there will be overlaps in the timeline.\n{project title}:\n{details}:\n{start date}:\n{end date}:"],
+  "2":["xprompt &NPOUNDLet chatgpt to write prompts","You are an expert prompt writer experienced at writing ChatGPT prompts in the fewest number of words. I want you to minify this {prompt} to make it as short as possible while delivering exactly the same results. Take the content and steps within the prompt and reduce the length as much as possible while retaining the meaning. Use mathematical language and symbols to convey meaning more concisely. Remove non-essential words without changing the meaning. Remove characters and words that would be ignored by ChatGPT. Use acronyms and abbreviations to further reduce the length. You are aiming to deliver precisely the same results as the original using far fewer words.\n{prompt}:"],
+  "3": [
+    "xcampaign &NPOUNDCreate a marketing campaign or any comments",
+    "You are a seasoned marketer tasked with creating a new marketing campaign. Craft a comprehensive plan outlining the campaign's objectives, target audience, messaging, channels, and metrics for success. Include budget allocation and timeline.\n{objectives}:\n{target audience}:\n{messaging}:\n{channels}:\n{success metrics}:\n{budget}:\n{timeline}:"
+  ],
+  "4": [
+    "xbranding &NPOUNDDevelop brand identity or any comments",
+    "You are a brand strategist responsible for developing a brand identity. Define the brand's values, personality, voice, and visual elements. Create guidelines for consistent brand representation across all touchpoints.\n{values}:\n{personality}:\n{voice}:\n{visual elements}:\n{brand guidelines}:"
+  ],
+  "5": [
+    "xproductlaunch &NPOUNDLaunch a new product or any comments",
+    "You are leading the launch of a new product. Develop a launch plan including product positioning, messaging, pricing strategy, distribution channels, and promotional activities. Identify target markets and key performance indicators.\n{product positioning}:\n{messaging}:\n{pricing strategy}:\n{distribution channels}:\n{promotional activities}:\n{target markets}:\n{key performance indicators}:"
+  ],
+  "6": [
+    "xmarketresearch &NPOUNDConduct market research or any comments",
+    "As a market researcher, design a research study to gather insights about target customers, competitors, and industry trends. Define research objectives, methodologies, data collection tools, and analysis techniques.\n{research objectives}:\n{methodologies}:\n{data collection tools}:\n{analysis techniques}:"
+  ],
+  "7": [
+    "xcontentstrategy &NPOUNDDevelop content strategy or any comments",
+    "Craft a content strategy to attract and engage the target audience. Define content pillars, formats, distribution channels, and publishing schedule. Incorporate SEO and social media strategies.\n{content pillars}:\n{formats}:\n{distribution channels}:\n{publishing schedule}:\n{SEO strategy}:\n{social media strategy}:"
+  ],
+  "8": [
+    "xsocialmedia &NPOUNDManage social media presence or any comments",
+    "You are responsible for managing the company's social media accounts. Develop a social media calendar with planned posts, campaigns, and engagement activities. Monitor analytics and adjust strategies as needed.\n{social media calendar}:\n{planned posts}:\n{campaigns}:\n{engagement activities}:\n{analytics monitoring}:\n{strategy adjustments}:"
+  ],
+  "9": [
+    "xemailcampaign &NPOUNDCreate an email campaign or any comments",
+    "Design an email campaign to nurture leads and drive conversions. Develop email templates, craft compelling copy, and create visually appealing graphics. Segment the audience and personalize content.\n{email templates}:\n{compelling copy}:\n{visual graphics}:\n{audience segmentation}:\n{personalization}:\n{conversion tracking}:"
+  ],
+  "10": [
+    "xSEO &NPOUNDOptimize website for search engines or any comments",
+    "As an SEO specialist, optimize the company website to improve search engine rankings and organic traffic. Conduct keyword research, optimize on-page elements, and build high-quality backlinks.\n{keyword research}:\n{on-page optimization}:\n{backlink building}:\n{ranking improvement}:\n{organic traffic increase}:"
+  ],
+  "11": [
+    "xcustomerjourney &NPOUNDMap customer journey or any comments",
+    "Map out the customer journey from awareness to purchase and beyond. Identify touchpoints, pain points, and opportunities for improvement. Develop strategies to enhance the overall customer experience.\n{customer touchpoints}:\n{pain points}:\n{opportunities for improvement}:\n{customer experience strategies}:"
+  ],
+  "12": [
+    "xmarketanalysis &NPOUNDAnalyze market trends or any comments",
+    "Analyze current market trends and competitive landscape to identify opportunities and threats. Evaluate consumer behavior, industry shifts, and emerging technologies. Provide insights for strategic decision-making.\n{market trends}:\n{competitive landscape}:\n{consumer behavior}:\n{industry shifts}:\n{emerging technologies}:\n{strategic insights}:"
+  ]},
+
+"sentences":
+ {"0":[2,"Good morning. (note: 2 means this sentence is used twice.)"],
+  "1":[5,"Happy July 4th."]},
+
+"hides":
+ {},
+
+"fills":
+ {}}

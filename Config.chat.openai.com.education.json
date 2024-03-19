@@ -1,0 +1,61 @@
+{"urls":
+ {"0":["urls01","chat.openai.com"],
+  "1":["myFirstName","myFirstName myLastName"],
+  "2":["submit","[data-testid=\"send-button\"]"]},
+
+"keywords":
+ {},
+
+"controls":
+ {"0":["p &NPOUNDSave to profile","Save selection to profile"]},
+
+"shortcuts":
+ {"0":["xppt &NPOUNDPrepare PPT or any comments you want","You are an expert presenter who knows how to communicate clearly and keep an audience's attention. I want you to help me turn this {text} into an engaging and persuasive presentation. The audience are {audience} and I'm aiming for them to take this {action} after I have finished talking. I have been given {time} to speak, so make sure you come up with something that can be delivered within that time. I want you to create a list of slides that the presentation should contain. For each slide I want you to list the headline, other media (image/video/gif) and the speaker's notes as a list of bullet points. Each slide should contain no more than 30 words so they don't distract from what I'm saying. Each slide should only talk about one thing. It's better to have more slides saying less then less slides saying more. Slides can also contain images, charts, diagrams and films, if they help communicate a point clearly.\n{audience}:\n{action}:\n{time}:\n{text}:"],
+  "1":["xproject &NPOUNDPlan a project or any comments","You are a highly experienced project manager who has a reputation for running successful projects. I want you to help me create a project plan for {project title}. Here are the {details}. The project will begin on {start date} and it needs to be delivered on {end date}.\nStart by listing project objectives that are specific and measurable, list the success metrics, list the milestones and deliverables. Now ask me if I'd like to see the timeline. Stop and wait for my response. Do not continue until I answer.\nIf I say yes, show a timeline as a table. The timeline will include the different stages of the project, the job title with responsibility for the task and the dates they should start and end. Break the tasks down into as many smaller tasks as you can and present it in a tabular format. Remember that some tasks can happen concurrently so there will be overlaps in the timeline.\n{project title}:\n{details}:\n{start date}:\n{end date}:"],
+  "2":["xprompt &NPOUNDLet chatgpt to write prompts","You are an expert prompt writer experienced at writing ChatGPT prompts in the fewest number of words. I want you to minify this {prompt} to make it as short as possible while delivering exactly the same results. Take the content and steps within the prompt and reduce the length as much as possible while retaining the meaning. Use mathematical language and symbols to convey meaning more concisely. Remove non-essential words without changing the meaning. Remove characters and words that would be ignored by ChatGPT. Use acronyms and abbreviations to further reduce the length. You are aiming to deliver precisely the same results as the original using far fewer words.\n{prompt}:"],
+  "3": [
+    "xassignment &NPOUNDDesign an assignment or any comments",
+    "You are designing an assignment for {grade/level} students. Develop an engaging and meaningful assignment related to {subject} that encourages critical thinking and application of knowledge. Include clear instructions, objectives, and assessment criteria to guide students through the task."
+  ],
+  "4": [
+    "xproject &NPOUNDPlan a project-based learning activity or any comments",
+    "You are implementing project-based learning in your classroom. Plan a hands-on project for {grade/level} students that integrates {subject} concepts with real-world applications. Outline project objectives, timeline, resources needed, and assessment methods to evaluate student learning."
+  ],
+  "5": [
+    "xclassroom &NPOUNDEnhance classroom management or any comments",
+    "You are a teacher seeking strategies to improve classroom management. Provide tips and techniques for maintaining a positive learning environment, managing student behavior, fostering student engagement, and promoting a culture of respect and collaboration in the classroom."
+  ],
+  "6": [
+    "xcollaboration &NPOUNDFacilitate collaboration among students or any comments",
+    "You are facilitating group work in your classroom. Share strategies for promoting effective collaboration among students, including cooperative learning activities, group roles, communication techniques, and conflict resolution strategies. Emphasize the importance of teamwork and mutual respect."
+  ],
+  "7": [
+    "xassessment &NPOUNDImplement formative assessment strategies or any comments",
+    "You are implementing formative assessment strategies to monitor student progress. Describe effective formative assessment techniques such as exit tickets, think-pair-share, peer assessment, and self-assessment. Explain how these strategies can inform instruction and support student learning."
+  ],
+  "8": [
+    "xtechnology &NPOUNDIntegrate technology in the classroom or any comments",
+    "You are incorporating technology into your teaching practices. Identify innovative ways to integrate technology tools and resources to enhance instruction, engage students, and personalize learning experiences. Highlight digital tools, apps, and online resources suitable for {grade/subject}."
+  ],
+  "9": [
+    "xremote &NPOUNDAdapt teaching for remote learning or any comments",
+    "You are adapting your teaching for remote or online learning. Share best practices and strategies for delivering effective instruction in a virtual environment. Include tips for engaging students, managing online discussions, providing feedback, and utilizing digital platforms and resources."
+  ],
+  "10": [
+    "xparent &NPOUNDEngage parents in student learning or any comments",
+    "You are looking to involve parents in their child's education. Provide ideas and strategies for building strong partnerships between educators and parents. Offer suggestions for effective communication, family involvement activities, and resources to support learning at home."
+  ],
+  "11": [
+    "xprofessional &NPOUNDAdvance professional development or any comments",
+    "You are seeking opportunities for professional development as an educator. Recommend resources, workshops, conferences, or online courses that can enhance teaching practices, expand subject knowledge, and promote continuous growth and learning in the field of education."
+  ]},
+
+"sentences":
+ {"0":[2,"Good morning. (note: 2 means this sentence is used twice.)"],
+  "1":[5,"Happy July 4th."]},
+
+"hides":
+ {},
+
+"fills":
+ {}}
