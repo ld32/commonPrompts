@@ -1,19 +1,16 @@
-# List of common useful AI chat prompts. Feel free to clone or PR yours. Thanks.
-
-
-Prompt with shortcut and hints<a name="TOP"></a>
+List of common useful AI chat prompts. Feel free to clone or PR yours. Thanks.<a name="TOP"></a>
 ===================
 
 - - - - 
-### 1. What is Prompt with shortcut (Prompt with shortcut and hints)? 
+### 1. What is Common Prompts? 
 
-   Prompt with shortcut is an firefox/chrome extension to automate office work, such as automatically fill and submit web form, then automaticall download results.
+   Common Prompts is an firefox/chrome extension to automate office work, such as automatically fill and submit web form.
     
 ### 2. How to install and configure Auto text?
 
    Please follow the links bellow to download and install the firefox: 
    
-   https://addons.mozilla.org/en-US/firefox/addon/promptWithShortcut/
+   https://addons.mozilla.org/en-US/firefox/addon/commonPrompts/
    
    Please follow the links bellow to download and install the chrome: 
    
