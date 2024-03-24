@@ -28,7 +28,7 @@ List of common useful AI chat prompts. Feel free to clone or PR yours. Thanks.<a
 ### 3. How to ask question?
    Please post your questions in:
    
-   https://github.com/ld32/commonPrompts
+   https://github.com/ld32/myPrompts
    
       
 
